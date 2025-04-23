@@ -5,7 +5,7 @@ He is currently an undergraduate student in Communication Engineering from [Scho
 He is looking for a PhD's position for 26Fall. You can find my CV [here](../cv.pdf)
 
 #### Email
-[Email](mailto:richarf22@foxmail.com)
+[richarf22@foxmail.com](mailto:richarf22@foxmail.com)
 
 #### Education
 B.E., Communciation Engineering, University of Glasgow, 2026-2026(expected)
