@@ -9,7 +9,7 @@ He is looking for a PhD's position for 26Fall. You can find my CV [here](../cv.p
 [richarf22@foxmail.com](mailto:richarf22@foxmail.com)
 
 #### Education
-B.E., Communciation Engineering, University of Glasgow, 2026-2026(expected)
+B.E., Communciation Engineering, University of Glasgow, 2022-2026(expected)
 
 #### Research Interests
 Large Language Model, Computer Vision, AIGC
