@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently an undergraduate student in Communication Engineering from [School of Engineering](https://www.gla.ac.uk/schools/engineering/),[University of Glasgow](https://www.gla.ac.uk) and now working as an intern under the supervision of [Prof. Chenyu You](https://chenyuyou.me/). 
+
+He is looking for a PhD's position for 26Fall.
 
 #### Email
-sli[at]cumt.edu.cn
+[Email](mailto:richarf22@foxmail.com)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Communciation Engineering, University of Glasgow, 2026-2026(expected)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Large Language Model, Computer Vision, AIGC
 
