@@ -137,7 +137,7 @@
       "name": "Mini Smart Home Using Embedded Processor (STM32)",
       "category": "project",
       "date": "2023-04",
-      "url": "",
+      
       "description": "Built a smart home prototype using STM32 to sense temperature/luminance/humidity and respond accordingly; independently programmed, built circuits, and tested (UESTC, Chengdu)."
     },
     {
