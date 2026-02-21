@@ -130,7 +130,7 @@
       "name": "Automated Pace Tracking Drone",
       "category": "project",
       "date": "2025-01",
-      "url": "",
+      
       "description": "Designed and built a fully autonomous drone capable of tracking, object recognition, and object grasping; completed hardware assembly, programming, and validation independently (UESTC, Chengdu)."
     },
     {
@@ -144,28 +144,28 @@
       "name": "Transformer-based Object Classification Model",
       "category": "project",
       "date": "2024-12",
-      "url": "",
+      
       "description": "Built a Transformer model to classify 7 object categories; contributed to dataset creation; achieved better performance than peer models (UESTC)."
     },
     {
       "name": "Reviewer, CVPR",
       "category": "activity",
       "date": "2024-12",
-      "url": "",
+      
       "description": "Reviewed papers related to medical computer vision frameworks."
     },
     {
       "name": "Champion, College Football Tournament",
       "category": "activity",
       "date": "2022-10",
-      "url": "",
+      
       "description": "Recognized as the Champion Class in the tournament."
     },
     {
       "name": "Outstanding Class Committee Member",
       "category": "activity",
       "date": "2023-10",
-      "url": "",
+      
       "description": "Granted to class committee members who demonstrated exceptional dedication (also awarded in 2024-10)."
     }
   ]
