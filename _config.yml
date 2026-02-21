@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jaiyi Guo"
-  pronouns         : # example: "he/his"  
+  pronouns         :  "he/his"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "UESTC & UoG"
@@ -89,7 +89,7 @@ publication_category:
 #  manuscripts:
  #   title: 'Journal Articles'    
   conferences:
-    title: [A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models](https://ieeexplore.ieee.org/abstract/document/11356681/)
+    title: "A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
