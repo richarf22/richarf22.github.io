@@ -89,7 +89,7 @@ publication_category:
 #  manuscripts:
  #   title: 'Journal Articles'    
   conferences:
-    title: "A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models"
+    title: "conferences"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
