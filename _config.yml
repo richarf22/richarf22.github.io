@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "richarf22 / richarf22.github.io"
+title                    : "Jiayi Guo"
 title_separator          : "-"
 name                     : &name "Jiayi Guo"
 description              : &description "This is the personal website of Jiayi Guo"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -29,7 +29,7 @@ author:
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "UESTC & UoG"
-  #uri              : # URL
+  uri              : https://richarf22.github.io
   email            : "richarf22@foxmail.com" 
 
   # Academic websites
