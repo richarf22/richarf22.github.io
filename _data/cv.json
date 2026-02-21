@@ -1,152 +1,172 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jiayi Guo",
+    "label": "B.Eng. Student (Communication Engineering)",
+    "email": "jiayiguo@std.uestc.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://richarf22.github.io",
+    "summary": "Final-year undergraduate student in the UESTC & University of Glasgow joint program. Research interests include large language models (LLMs) and computer vision.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chengdu",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "richarf22",
+        "url": "https://github.com/richarf22"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": ""
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "National Supercomputing Center",
+      "position": "Research Intern — Diffusion Models for Virtual Try-On Systems",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Supervisor: Dr. Changwei Wang (Jinan, China)",
+      "highlights": [
+        "Developed a virtual try-on framework using diffusion models, enabling clothing visualization from a single image.",
+        "Improved realism and garment-fitting accuracy to enhance the online shopping experience.",
+        "Addressed long-sleeve to short-sleeve replacement using staged and partial replacement strategies."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "University of Electronic Science and Technology of China (UESTC)",
+      "position": "Research Assistant — Generative AI in Semantic Communication Systems",
+      "startDate": "2024-04",
+      "endDate": "2025-05",
+      "summary": "Supervisor: Prof. Yusha Liu (Chengdu, China)",
+      "highlights": [
+        "Applied generative AI models to compress information into latent space before transmission and reconstruct it after transmission to conserve communication resources.",
+        "Explored underwater semantic communication enhancement by learning from large underwater communication datasets.",
+        "Adapted models for complex-valued communication systems (most AI models are designed for real-valued inputs)."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Johns Hopkins University",
+      "position": "Research Project Lead — LLMs for Automated Machine Learning",
+      "startDate": "2024-02",
+      "endDate": "2025-05",
+      "summary": "Supervisor: Dr. Yiqing Shen (Baltimore, MD)",
+      "highlights": [
+        "Led an independent project applying LLMs to automate both discriminative and generative machine learning.",
+        "Ran experiments across multiple datasets; the framework performed better in most settings.",
+        "Conducted a user study with 25 participants validating usability and convenience.",
+        "Authored a paper accepted by IEEE BIBM 2025."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "UESTC & University of Glasgow",
+      "area": "Bachelor of Engineering | Communication Engineering (Joint Program)",
+      "studyType": "",
+      "startDate": "2022-09",
+      "endDate": "2026-07",
+      "gpa": "84.9 / 3.73",
+      "courses": [
+        "Linear Algebra and Space Analytic Geometry (98)",
+        "Elements of Information Theory (88)",
+        "Introductory Programming (95)",
+        "Digital Circuit Design (92)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python (NumPy, SciPy, Matplotlib, Pandas, PyTorch)",
+        "MATLAB",
+        "C"
+      ]
+    },
+    {
+      "name": "Document Preparation",
+      "keywords": [
+        "Microsoft Office Suite",
+        "LaTeX"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 7.5"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Large Language Models (LLMs)",
+        "Computer Vision"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models",
+      "publisher": "IEEE BIBM 2025",
+      "releaseDate": "2025-01-29",
+      "website": "",
+      "summary": "J. Guo, L. Zhang, and Y. Shen."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Automated Pace Tracking Drone",
+      "category": "project",
+      "date": "2025-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Designed and built a fully autonomous drone capable of tracking, object recognition, and object grasping; completed hardware assembly, programming, and validation independently (UESTC, Chengdu)."
+    },
+    {
+      "name": "Mini Smart Home Using Embedded Processor (STM32)",
+      "category": "project",
+      "date": "2023-04",
+      "url": "",
+      "description": "Built a smart home prototype using STM32 to sense temperature/luminance/humidity and respond accordingly; independently programmed, built circuits, and tested (UESTC, Chengdu)."
+    },
+    {
+      "name": "Transformer-based Object Classification Model",
+      "category": "project",
+      "date": "2024-12",
+      "url": "",
+      "description": "Built a Transformer model to classify 7 object categories; contributed to dataset creation; achieved better performance than peer models (UESTC)."
+    },
+    {
+      "name": "Reviewer, CVPR",
+      "category": "activity",
+      "date": "2024-12",
+      "url": "",
+      "description": "Reviewed papers related to medical computer vision frameworks."
+    },
+    {
+      "name": "Champion, College Football Tournament",
+      "category": "activity",
+      "date": "2022-10",
+      "url": "",
+      "description": "Recognized as the Champion Class in the tournament."
+    },
+    {
+      "name": "Outstanding Class Committee Member",
+      "category": "activity",
+      "date": "2023-10",
+      "url": "",
+      "description": "Granted to class committee members who demonstrated exceptional dedication (also awarded in 2024-10)."
     }
   ]
 }
