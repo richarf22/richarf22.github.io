@@ -9,44 +9,42 @@ redirect_from:
 
 ## Jiayi Guo
 
-- Email: jiayiguo@std.uestc.edu.cn
-- Research Interests: Large Language Models (LLMs), Computer Vision
+- Email: richarf22@foxmail.com
+- Research Interests: LLM evaluation, RAG, diffusion models, AutoML, and trustworthy AI systems
+- [Download PDF CV](/files/cv.pdf)
 
 ### Education
-**UESTC & University of Glasgow** — B.Eng. in Communication Engineering (Joint Program)  
-Sep. 2022 – Jul. 2026  
-GPA: 84.9 / 3.73  
-Core Courses: Linear Algebra and Space Analytic Geometry (98), Elements of Information Theory (88), Introductory Programming (95), Digital Circuit Design (92)
+**University of California, San Diego** — M.S. in Computer Science
+Sep. 2026 – Jun. 2028
+
+**University of Electronic Science and Technology of China & University of Glasgow** — B.Eng. in Communication Engineering
+Sep. 2022 – Jul. 2026 · GPA: 3.72/4.00
 
 ### Publications
-- **IEEE BIBM 2025**: *A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models* (J. Guo, L. Zhang, Y. Shen)
+- **IEEE BIBM 2025** — J. Guo, L. Zhang, and Y. Shen. *A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models.*
+- **Submitted to EMNLP 2026** — L. Zhang and J. Guo. *When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation.*
 
 ### Research Experience
-**National Supercomputing Center** — Diffusion Models for Virtual Try-On Systems (Sep. 2024 – Apr. 2025)  
-- Developed a diffusion-based virtual try-on framework from a single image.
-- Improved realism and garment-fitting accuracy.
-- Solved long-sleeve → short-sleeve replacement via staged/partial replacement.
+**Johns Hopkins University** — Large Language Models for Automated Machine Learning (Feb. 2024 – May 2025)
+- Led an independent project applying LLMs to discriminative and generative ML workflows across multiple datasets and task settings.
+- Evaluated the framework and conducted a 25-participant user study; wrote the paper accepted by IEEE BIBM 2025.
 
-**UESTC** — Generative AI in Semantic Communication Systems (Apr. 2024 – May. 2025)  
-- Latent-space compression & reconstruction to conserve communication resources.
-- Underwater communication enhancement via dataset-driven AI correction.
-- Adapted models for complex-valued communication systems.
+**National Supercomputing Center** — Diffusion Models for Virtual Try-On Systems (Sep. 2024 – Apr. 2025)
+- Developed a diffusion-based virtual try-on framework for single-image garment replacement, including staged and partial replacement for sleeve changes.
+- Improved visual realism and garment-fitting quality through model and pipeline adjustments.
 
-**Johns Hopkins University** — LLMs for Automated Machine Learning (Feb. 2024 – May. 2025)  
-- Automated discriminative & generative ML with LLMs.
-- Multi-dataset experiments; strong performance in most settings.
-- 25-participant user study; paper accepted by IEEE BIBM 2025.
+**UESTC** — Generative AI in Semantic Communication Systems (Apr. 2024 – May. 2025)
+- Explored latent-space compression and reconstruction, including underwater signal recovery settings.
+- Adapted AI models to complex-valued communication scenarios.
 
 ### Projects
-- Automated Pace Tracking Drone (2025)
-- Mini Smart Home with STM32 (2023)
-- Transformer-based Object Classification (2024–2025)
-
-### Honors & Awards
-- Outstanding Student of the University (Oct. 2023, Oct. 2024)
-- Outstanding Student of the College (Oct. 2023)
+- **Resource-Aware LLM/RAG Evaluation Service** — Built a local-first FastAPI service with document retrieval, a JSON benchmark schema, quality and reliability metrics, optional DeepSeek judging, and Markdown/HTML reports.
+- **Kaggle Playground Series: Predicting Irrigation Need** — Built a tabular ML pipeline and ranked **16th of 4,315 participants (top 3%)**.
+- **Advertiser Growth CRM Backend Extension** — Extended Spring PetClinic REST with advertiser-account workflows, RBAC, optimistic locking, transactional outbox events, Kafka retry handling, Redis caching, health checks, and Prometheus metrics.
+- **Trustworthy Code-Change Review Agent** — Built a typed multi-agent review service with FastAPI/CLI interfaces, evaluation and observability, prompt-injection defenses, PII/credential redaction, and 27 unit/integration tests.
 
 ### Skills
-- English (IELTS 7.5)
-- Python (NumPy, SciPy, Matplotlib, Pandas, PyTorch), MATLAB, C
-- Microsoft Office Suite, LaTeX
+- **Languages:** Python, C, MATLAB
+- **ML/Data:** PyTorch, NumPy, SciPy, Pandas, Matplotlib, tabular ML, model evaluation
+- **Engineering:** FastAPI, Docker, REST APIs, JSON, Git, LaTeX
+- **AI Areas:** LLM evaluation, RAG, diffusion models, AutoML
