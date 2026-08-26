@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Jiayi Guo",
-    "label": "B.Eng. Student (Communication Engineering)",
-    "email": "jiayiguo@std.uestc.edu.cn",
+    "label": "Incoming M.S. Student in Computer Science",
+    "email": "richarf22@foxmail.com",
     "phone": "",
     "website": "https://richarf22.github.io",
-    "summary": "Final-year undergraduate student in the UESTC & University of Glasgow joint program. Research interests include large language models (LLMs) and computer vision.",
+    "summary": "Incoming M.S. student in Computer Science at UC San Diego working on LLM evaluation, RAG, multimodal AutoML, diffusion models, and trustworthy AI systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Chengdu",
-      "countryCode": "CN",
-      "region": "Sichuan"
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -21,96 +21,90 @@
       },
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": ""
+        "username": "Jiayi Guo",
+        "url": "https://scholar.google.com/citations?user=tUYD9-8AAAAJ&hl=en"
       }
     ]
   },
   "work": [
     {
-      "company": "National Supercomputing Center",
-      "position": "Research Intern — Diffusion Models for Virtual Try-On Systems",
-      "startDate": "2024-09",
-      "endDate": "2025-04",
-      "summary": "Supervisor: Dr. Changwei Wang (Jinan, China)",
-      "highlights": [
-        "Developed a virtual try-on framework using diffusion models, enabling clothing visualization from a single image.",
-        "Improved realism and garment-fitting accuracy to enhance the online shopping experience.",
-        "Addressed long-sleeve to short-sleeve replacement using staged and partial replacement strategies."
-      ]
-    },
-    {
-      "company": "University of Electronic Science and Technology of China (UESTC)",
-      "position": "Research Assistant — Generative AI in Semantic Communication Systems",
-      "startDate": "2024-04",
-      "endDate": "2025-05",
-      "summary": "Supervisor: Prof. Yusha Liu (Chengdu, China)",
-      "highlights": [
-        "Applied generative AI models to compress information into latent space before transmission and reconstruct it after transmission to conserve communication resources.",
-        "Explored underwater semantic communication enhancement by learning from large underwater communication datasets.",
-        "Adapted models for complex-valued communication systems (most AI models are designed for real-valued inputs)."
-      ]
-    },
-    {
       "company": "Johns Hopkins University",
-      "position": "Research Project Lead — LLMs for Automated Machine Learning",
+      "position": "Large Language Models for Automated Machine Learning",
       "startDate": "2024-02",
       "endDate": "2025-05",
-      "summary": "Supervisor: Dr. Yiqing Shen (Baltimore, MD)",
+      "summary": "Independent research project on LLM-driven automation of discriminative and generative machine-learning workflows.",
       "highlights": [
-        "Led an independent project applying LLMs to automate both discriminative and generative machine learning.",
-        "Ran experiments across multiple datasets; the framework performed better in most settings.",
-        "Conducted a user study with 25 participants validating usability and convenience.",
-        "Authored a paper accepted by IEEE BIBM 2025."
+        "Led experiments across multiple datasets and task settings.",
+        "Evaluated framework performance and conducted a 25-participant user study.",
+        "Wrote the paper accepted by IEEE BIBM 2025."
+      ]
+    },
+    {
+      "company": "National Supercomputing Center",
+      "position": "Diffusion Models for Virtual Try-On Systems",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Research on single-image garment replacement using diffusion models.",
+      "highlights": [
+        "Developed staged and partial replacement methods for sleeve changes.",
+        "Improved visual realism and garment-fitting quality through model and pipeline adjustments."
+      ]
+    },
+    {
+      "company": "University of Electronic Science and Technology of China",
+      "position": "Generative AI in Semantic Communication Systems",
+      "startDate": "2024-04",
+      "endDate": "2025-05",
+      "summary": "Research on generative AI for latent-space compression and reconstruction in communication systems.",
+      "highlights": [
+        "Explored underwater signal-recovery settings.",
+        "Adapted AI models to complex-valued communication scenarios."
       ]
     }
   ],
   "education": [
     {
-      "institution": "UESTC & University of Glasgow",
-      "area": "Bachelor of Engineering | Communication Engineering (Joint Program)",
-      "studyType": "",
+      "institution": "University of California, San Diego",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2026-09",
+      "endDate": "2028-06",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Electronic Science and Technology of China & University of Glasgow",
+      "area": "Communication Engineering",
+      "studyType": "B.Eng.",
       "startDate": "2022-09",
       "endDate": "2026-07",
-      "gpa": "84.9 / 3.73",
-      "courses": [
-        "Linear Algebra and Space Analytic Geometry (98)",
-        "Elements of Information Theory (88)",
-        "Introductory Programming (95)",
-        "Digital Circuit Design (92)"
-      ]
+      "gpa": "3.72/4.00",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Programming",
-      "keywords": [
-        "Python (NumPy, SciPy, Matplotlib, Pandas, PyTorch)",
-        "MATLAB",
-        "C"
-      ]
+      "name": "Languages",
+      "keywords": ["Python", "C", "MATLAB"]
     },
     {
-      "name": "Document Preparation",
-      "keywords": [
-        "Microsoft Office Suite",
-        "LaTeX"
-      ]
-    }
-  ],
-  "languages": [
+      "name": "ML/Data",
+      "keywords": ["PyTorch", "NumPy", "SciPy", "Pandas", "Matplotlib", "Tabular ML", "Model evaluation"]
+    },
     {
-      "language": "English",
-      "fluency": "IELTS 7.5"
+      "name": "Engineering",
+      "keywords": ["FastAPI", "Docker", "REST APIs", "JSON", "Git", "LaTeX"]
+    },
+    {
+      "name": "AI Areas",
+      "keywords": ["LLM evaluation", "RAG", "Diffusion models", "AutoML"]
     }
   ],
+  "languages": [],
   "interests": [
     {
       "name": "Research Interests",
-      "keywords": [
-        "Large Language Models (LLMs)",
-        "Computer Vision"
-      ]
+      "keywords": ["LLM evaluation", "RAG", "Multimodal AutoML", "Diffusion models", "Trustworthy AI systems"]
     }
   ],
   "references": [],
@@ -118,55 +112,44 @@
     {
       "name": "A Human-Centered Multimodal AutoML Framework for Discriminative and Generative Tasks with Large Language Models",
       "publisher": "IEEE BIBM 2025",
-      "releaseDate": "2026-01-29",
-      "website": "",
+      "releaseDate": "2025",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11356681",
       "summary": "J. Guo, L. Zhang, and Y. Shen."
+    },
+    {
+      "name": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation",
+      "publisher": "Submitted to EMNLP 2026",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "L. Zhang and J. Guo."
     }
   ],
   "presentations": [],
   "teaching": [],
   "portfolio": [
     {
-      "name": "Automated Pace Tracking Drone",
+      "name": "Resource-Aware LLM/RAG Evaluation Service",
       "category": "project",
-      "date": "2025-01",
-      
-      "description": "Designed and built a fully autonomous drone capable of tracking, object recognition, and object grasping; completed hardware assembly, programming, and validation independently (UESTC, Chengdu)."
+      "date": "2026",
+      "description": "Built a local-first FastAPI evaluation service with document retrieval, a JSON benchmark schema, answer-quality and reliability metrics, optional DeepSeek judging, and Markdown/HTML reports."
     },
     {
-      "name": "Mini Smart Home Using Embedded Processor (STM32)",
+      "name": "Kaggle Playground Series: Predicting Irrigation Need",
       "category": "project",
-      "date": "2023-04",
-      
-      "description": "Built a smart home prototype using STM32 to sense temperature/luminance/humidity and respond accordingly; independently programmed, built circuits, and tested (UESTC, Chengdu)."
+      "date": "2026",
+      "description": "Built a tabular ML pipeline and ranked 16th out of 4,315 participants, placing in the top 3%."
     },
     {
-      "name": "Transformer-based Object Classification Model",
+      "name": "Advertiser Growth CRM Backend Extension",
       "category": "project",
-      "date": "2024-12",
-      
-      "description": "Built a Transformer model to classify 7 object categories; contributed to dataset creation; achieved better performance than peer models (UESTC)."
+      "date": "2026",
+      "description": "Extended Spring PetClinic REST with advertiser workflows, RBAC, optimistic locking, transactional outbox events, Kafka retry handling, Redis caching, and observability."
     },
     {
-      "name": "Reviewer, CVPR",
-      "category": "activity",
-      "date": "2024-12",
-      
-      "description": "Reviewed papers related to medical computer vision frameworks."
-    },
-    {
-      "name": "Champion, College Football Tournament",
-      "category": "activity",
-      "date": "2022-10",
-      
-      "description": "Recognized as the Champion Class in the tournament."
-    },
-    {
-      "name": "Outstanding Class Committee Member",
-      "category": "activity",
-      "date": "2023-10",
-      
-      "description": "Granted to class committee members who demonstrated exceptional dedication (also awarded in 2024-10)."
+      "name": "Trustworthy Code-Change Review Agent with Evaluation and Observability",
+      "category": "project",
+      "date": "2026",
+      "description": "Built a typed multi-agent code-review service with FastAPI and CLI interfaces, evaluation and observability, prompt-injection defenses, PII and credential redaction, and 27 unit/integration tests."
     }
   ]
 }
